@@ -1,0 +1,5 @@
+study
+sport
+others
+eating
+sleep
